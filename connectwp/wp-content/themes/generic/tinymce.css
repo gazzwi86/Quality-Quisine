@@ -1,0 +1,27 @@
+a.sample_menu_top {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 180px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	background: url(library/images/samplemenu-off.png) top left no-repeat;
+}
+a.sample_menu_top:hover {
+	background: url(library/images/samplemenu-on.png) top left no-repeat;
+}
+
+a.sample_menu_bottom {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	width: 180px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	background: url(library/images/samplemenu-off.png) top left no-repeat;
+}
+a.sample_menu_bottom:hover {
+	background: url(library/images/samplemenu-on.png) top left no-repeat;
+}
